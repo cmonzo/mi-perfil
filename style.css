@@ -1,0 +1,45 @@
+img.miperfil{
+    float: right;
+    border: black 2px solid;
+}
+section.datos{
+    clear: both;
+    
+   
+}
+section.vitae{
+    text-align: center;
+    color: green;
+    font-size: 40px;
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+}
+p.corte{
+    color: red;
+}
+header{
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+section.publico{
+    text-align: right;
+}
+header{
+    background-color: grey;
+    border: green 4px solid;
+}
+summary{
+    font-size: 30px;
+}
+li{
+    font-size: 20px;
+}
+h3{
+    font-size: 30px;
+    font-style: italic;
+    text-decoration: underline;
+}
